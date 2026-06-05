@@ -1,0 +1,10 @@
+{
+  "hello": "Hello! How can I help you?",
+  "what is your name": "I am a Student Assistant Chatbot.",
+  "what is python": "Python is a programming language.",
+  "what is data science": "Data science is the study of data to gain insights.",
+  "what is github": "GitHub is a platform for storing and managing code.",
+  "what is a chatbot": "A chatbot is a program that can communicate with users.",
+  "thank you": "You're welcome!",
+  "bye": "Goodbye! Have a nice day."
+}
